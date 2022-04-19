@@ -1,17 +1,21 @@
-<center><h1>Hello and welcome to my page!</h1></center>
+<h1>Hello and welcome to my page!</h1>
 
-<center><a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a></center>
+<p>Just getting started and got a lot to learn, but I'm looking forward to the journey.</p>
 
-Languages and tools I'm currently learning:
+Here are some of the languages and tools I'm currently learning:
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+My LinkedIn can be found here --> <a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+
 
 My current stats:
 
