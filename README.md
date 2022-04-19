@@ -1,12 +1,10 @@
 <h1>Hello and welcome to my page!</h1>
 
+<p>Just getting started and got a lot to learn, but I'm looking forward to the journey.</p>
+
  <a><img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="Humor badge"/>
   </a>  <a><img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="Humor badge"/>
-  </a> 
-  
- 
-
-<p>Just getting started and got a lot to learn, but I'm looking forward to the journey.</p>
+  </a>
 
 Here are some of the languages and tools I'm currently learning:
 
@@ -36,3 +34,5 @@ Proud supporter of:
 <a><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="LinuxMint Badge"/>
   </a> <a><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/>
   </a> 
+ 
+ 
