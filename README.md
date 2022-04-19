@@ -2,7 +2,8 @@
 
 <a><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="LinuxMint Badge"/>
   </a> <a><img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="Humor badge"/>
-  </a>
+  </a>  <a><img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="Humor badge"/>
+  </a> 
   
  
 
