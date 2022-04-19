@@ -25,6 +25,6 @@ Languages I've used the most are:
 
 Proud supporter of:
 
-<a><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="LinuxMint Badge"/>
+<a href="https://www.linuxmint.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="LinuxMint Badge"/></a>
   </a> <a><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/>
   </a> 
