@@ -1,8 +1,8 @@
-<h1>Hello and welcome to my page!</h1>
+<center><h1>Hello and welcome to my page!</h1></center>
 
-<a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
+<center><a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a></center>
 
 Languages and tools I'm currently learning:
 
