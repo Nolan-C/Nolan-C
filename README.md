@@ -21,4 +21,6 @@ My current stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nolan-C&theme=dark&background=000000)](https://git.io/streak-stats)
 
+Languages I've used the most are:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-C)](https://github.com/anuraghazra/github-readme-stats)
