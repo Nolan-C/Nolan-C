@@ -2,10 +2,6 @@
 
 <p>Just getting started and got a lot to learn, but I'm looking forward to the journey.</p>
 
- <a><img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="Humor badge"/>
-  </a>  <a><img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="Humor badge"/>
-  </a>
-
 Here are some of the languages and tools I'm currently learning:
 
 <div>
@@ -18,8 +14,6 @@ Here are some of the languages and tools I'm currently learning:
 My LinkedIn can be found here 👉 <a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-
 
 My current stats:
 
@@ -35,4 +29,6 @@ Proud supporter of:
   </a> <a><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/>
   </a> 
  
- 
+ <---  <a><img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="Humor badge"/>
+  </a>  <a><img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="Humor badge"/>
+  </a> --->
