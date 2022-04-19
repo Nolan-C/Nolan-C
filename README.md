@@ -1,6 +1,6 @@
 <h1>Hello and welcome to my page!</h1>
 
-<p>Just getting started and got a lot to learn, but I'm looking forward to the journey.</p>
+Just getting started and got a lot to learn, but I'm looking forward to the journey.
 
 Here are some of the languages and tools I'm currently learning:
 
@@ -19,7 +19,7 @@ My current stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nolan-C&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3>Languages I've used the most are:</h3>
+Languages I've used the most are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-C)](https://github.com/anuraghazra/github-readme-stats)
 
