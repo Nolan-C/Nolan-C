@@ -1,6 +1,6 @@
 <h1>Hello and welcome to my page!</h1>
 
-Just getting started and got a lot to learn, but I'm looking forward to the journey..
+Just getting started and got a lot to learn, but I'm looking forward to the journey.
 
 Here are some of the languages and tools I'm currently learning:
 
