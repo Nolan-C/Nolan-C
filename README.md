@@ -15,7 +15,7 @@ My LinkedIn can be found here 👉 <a href="https://www.linkedin.com/in/nolan-ca
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-My current stats:
+My current stats are:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nolan-C&theme=dark&background=000000)](https://git.io/streak-stats)
 
