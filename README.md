@@ -10,7 +10,7 @@ Here are some of the languages and tools I'm currently learning:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Flexbox" **alt="Flexbox" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flexbox/flexbox-original.svg" title="Flexbox" **alt="Flexbox" width="40" height="40"/>
 </div>
 
 My LinkedIn can be found here 👉 <a href="https://www.linkedin.com/in/nolan-callahan-54bb0b18b/">
